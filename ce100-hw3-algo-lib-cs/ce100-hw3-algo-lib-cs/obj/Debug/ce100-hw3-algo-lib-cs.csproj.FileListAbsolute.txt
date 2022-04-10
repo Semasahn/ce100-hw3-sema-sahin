@@ -1,0 +1,6 @@
+C:\Users\admin\OneDrive\Masaüstü\ödev\ce100-hw3-algo-lib-cs\ce100-hw3-algo-lib-cs\bin\Debug\ce100-hw3-algo-lib-cs.dll
+C:\Users\admin\OneDrive\Masaüstü\ödev\ce100-hw3-algo-lib-cs\ce100-hw3-algo-lib-cs\bin\Debug\ce100-hw3-algo-lib-cs.pdb
+C:\Users\admin\OneDrive\Masaüstü\ödev\ce100-hw3-algo-lib-cs\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Masaüstü\ödev\ce100-hw3-algo-lib-cs\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Masaüstü\ödev\ce100-hw3-algo-lib-cs\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.dll
+C:\Users\admin\OneDrive\Masaüstü\ödev\ce100-hw3-algo-lib-cs\ce100-hw3-algo-lib-cs\obj\Debug\ce100-hw3-algo-lib-cs.pdb
